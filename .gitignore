@@ -1,0 +1,5 @@
+# build output and local preview/scratch files
+*.exe
+*.zip
+_realcheck.txt
+/*.png
